@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/like-button/static/css/main.e0450249.css",
+    "main.js": "/like-button/static/js/main.ea666d10.js",
+    "static/js/787.2e637c0a.chunk.js": "/like-button/static/js/787.2e637c0a.chunk.js",
+    "index.html": "/like-button/index.html",
+    "main.e0450249.css.map": "/like-button/static/css/main.e0450249.css.map",
+    "main.ea666d10.js.map": "/like-button/static/js/main.ea666d10.js.map",
+    "787.2e637c0a.chunk.js.map": "/like-button/static/js/787.2e637c0a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0450249.css",
+    "static/js/main.ea666d10.js"
+  ]
+}
